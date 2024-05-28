@@ -76,7 +76,8 @@ Create a .env file in the backend directory with the following variables:
 PORT=5000
 MONGO_URI=your_mongodb_uri
 JWT_SECRET=your_jwt_secret
-SENDGRID_API_KEY=your_sendgrid_api_key
+EMAIL_USER=your_email
+USER_PASSKEY=your_app_key
 
 ```
 Start the backend server:
