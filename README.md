@@ -29,14 +29,7 @@ Welcome to Rentify! This project aims to provide a comprehensive platform for re
 - **Search:** Users can search for properties based on various criteria like location, rent amount, and property type.
 - **Filters:** Users can filter search results by criteria such as price range, number of bedrooms, and amenities.
 
-### Booking Management
-- **Book Property:** Users can book properties for rent by specifying the rental period.
-- **View Bookings:** Users can view their current and past bookings.
-- **Cancel Booking:** Users can cancel their bookings.
 
-### Reviews and Ratings
-- **Write Reviews:** Users can write reviews and rate properties they have rented.
-- **View Reviews:** Users can view reviews and ratings for properties.
 
 ### Notifications
 - **Email Notifications:** Users receive email notifications for key actions such as booking confirmations, listing approvals, and password recovery.
