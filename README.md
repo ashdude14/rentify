@@ -2,6 +2,8 @@
 
 Welcome to Rentify! This project aims to provide a comprehensive platform for rental management, allowing users to list, search, and manage rental properties efficiently.
 
+[deployment link](https://cosmic-sprite-0e5bfa.netlify.app/)
+
 ## Table of Contents
 
 - [Features](#features)
