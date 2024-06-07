@@ -1,4 +1,4 @@
-# Rentify
+# Rentify [completed 6 hrs long hackathon]
 
 Welcome to Rentify! This project aims to provide a comprehensive platform for rental management, allowing users to list, search, and manage rental properties efficiently.
 
